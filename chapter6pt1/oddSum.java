@@ -1,3 +1,4 @@
+package chapter6pt1;
 /**
  * @author Jayden Randhawa
  * 01/12/2021
