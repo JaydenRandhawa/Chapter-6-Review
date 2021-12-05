@@ -1,5 +1,11 @@
 package chapter6pt2;
 
+/**
+ * @author Jayden Randhawa
+ * 02/12/2021
+ * This program takes a users name and password, checks if the password is 8 character os longer, then outputs the username and password
+ */
+
 import java.util.Scanner;
 
 public class accountSetup {

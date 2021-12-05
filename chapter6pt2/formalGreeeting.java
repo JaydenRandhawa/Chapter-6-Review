@@ -1,3 +1,9 @@
+/**
+ * @author Jayden Randhawa
+ * 02/12/2021
+ * This program takes a users name and greets them based on the prefix they provided.
+ */
+
 package chapter6pt2;
 
 import java.util.Scanner;
