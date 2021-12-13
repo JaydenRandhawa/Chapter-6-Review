@@ -13,9 +13,10 @@ public class displayDigits {
             numString += revNum.charAt(i);
         }
 
+        numString = "1" + numString;
         int num = Integer.parseInt(numString);
 
-        while(num != 0){
+        while(num > 9){
             System.out.println(num%10);
             num /= 10;
         }

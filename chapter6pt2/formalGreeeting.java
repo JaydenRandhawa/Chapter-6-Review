@@ -8,7 +8,7 @@ package chapter6pt2;
 
 import java.util.Scanner;
 
-public class formalGreeeting {
+public class FormalGreeeting {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
 

@@ -8,7 +8,7 @@ package chapter6Loops;
 import java.util.Scanner;
 import java.util.Random;
 
-public class guessingGame {
+public class GuessingGame {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
 

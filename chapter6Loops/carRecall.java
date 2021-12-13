@@ -6,7 +6,7 @@
 
 package chapter6Loops;
 import java.util.Scanner;
-public class carRecall {
+public class CarRecall {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
 

@@ -6,7 +6,7 @@
 
 package chapter6Loops;
 
-public class powersTable {
+public class PowersTable {
     public static void main(String[] args) {
         System.out.printf("%8s%8s%8s%8s%8s\n", "x^1", "x^2", "x^3", "x^4", "x^5");
         for(int i=1;i<=5;i++){

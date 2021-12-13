@@ -7,7 +7,7 @@ package chapter6pt1;
 
 import java.util.Scanner;
 
-public class percentPassing {
+public class PercentPassing {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
 
