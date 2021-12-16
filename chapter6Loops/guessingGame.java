@@ -13,13 +13,15 @@ public class GuessingGame {
         Scanner inp = new Scanner(System.in);
 
         long seed = inp.nextLong();
-        int guess = inp.nextInt();
+        int guess;
         
         Random rand = new Random(seed);
 
         int number = rand.nextInt(20)+1;
 
-        while(guess != number) guess = inp.nextInt();
+        do guess = inp.nextInt();
+        while(guess != number);
+
         System.out.println("WINNER");
     }
 }
